@@ -1,0 +1,7 @@
+{
+  "name": "500-Agent Emergent Creation System",
+  "description": "Autonomous 1,000-agent emergent creation system with dual-environment deployment (Earth & Deep Space), Crisis-Driven Learning (CDL), and Massive Server (Gemini) heavy-thinking synthesis loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
